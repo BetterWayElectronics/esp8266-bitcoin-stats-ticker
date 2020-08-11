@@ -1,5 +1,5 @@
 # ESP8266 Bitcoin Stats (Ticker)
-Using an ESP8266 to illustrate the current price of Bitcoin (among other things as you so desire).
+Using an ESP8266 to illustrate the current price of Bitcoin (among other things as you so desire) on a 26x2 LCD panel!
 
 # WiFi Settings
 * const char *ssid     = "YOUR SSID";
