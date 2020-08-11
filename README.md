@@ -14,4 +14,4 @@ http://api.coindesk.com/v1/bpi/currentprice/AUD.json
 * value
 
 # Example
-![img](https://i.imgur.com/eeRU2Fx.jpg)
+![img](https://i.imgur.com/KqQaLYb.jpg)
